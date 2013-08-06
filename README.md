@@ -1,4 +1,4 @@
-cube
-====
+popcorn
+=======
 
-3d css cube + first play with FRP
+A popcornjs / canvas experiment
